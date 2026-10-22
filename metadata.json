@@ -1,0 +1,6 @@
+{
+  "name": "MacExe Native Studio",
+  "description": "Công cụ phân tích, tạo wrapper và chạy tệp Windows .exe trực tiếp trên Mac (Apple Silicon & Intel) native không cần máy ảo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
